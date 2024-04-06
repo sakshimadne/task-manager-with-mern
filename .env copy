@@ -1,0 +1,4 @@
+# MONGODB_URI is the environment variable that stores the connection string for the MongoDB database.
+# It should be set to the appropriate MongoDB URI, which includes the username, password, cluster URL, database name, and other connection options.
+# This URI is used by the application to establish a connection with the MongoDB database.
+
